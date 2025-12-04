@@ -1,9 +1,9 @@
 # The main device that contains the sensors
 device              = {
     "identifiers": [
-        "solar_batteries_ble"
+        "solar_batteries_ble_sub"
     ],
-    "name": "Battery Status Monitor",
+    "name": "Battery Status Monitor Sub",
     "model": "Junctec",
     "manufacturer": "Juntek"
 }

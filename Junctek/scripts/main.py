@@ -12,7 +12,7 @@ import os
 class DeviceNotFoundError(Exception):
     pass
 
-class JunctekMonitor:
+class JunctekMonitorSub:
     def __init__(self):
         self.should_quit        = False
         self.found              = []
@@ -294,7 +294,7 @@ class JunctekMonitor:
 
 if __name__ == "__main__":
     try:
-        junctekMonitor  = JunctekMonitor()
+        junctekMonitor  = JunctekMonitorSub()
 
         if junctekMonitor.mac_address == '':
             junctekMonitor.logger.debug("Starting discovery")
