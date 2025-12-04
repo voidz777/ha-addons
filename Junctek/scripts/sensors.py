@@ -3,7 +3,7 @@ device              = {
     "identifiers": [
         "solar_batteries_ble"
     ],
-    "name": "Battery Status Monitor",
+    "name": "Battery Status Monitor Sub",
     "model": "Junctec",
     "manufacturer": "Juntek"
 }
