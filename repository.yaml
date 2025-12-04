@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: HAOS addons repository
-url: 'https://github.com/tsjippy/ha-addons'
-maintainer: Ewald Harmsen <ewaldha@hotmail.com>
+name: voidz777 HAOS addons repository
+url: 'https://github.com/voidz777/ha-addons'
+maintainer: voidz777 <voidz777@gmail.com>
