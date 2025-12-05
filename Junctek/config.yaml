@@ -18,8 +18,8 @@ hassio_role: admin
 
 options:
   macaddress: 
-  battery capacity: 400
-  voltage: 48
+  battery capacity: 20
+  voltage: 12
   log_level: info
 
 schema:
