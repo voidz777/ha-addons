@@ -18,7 +18,7 @@ class MqqtToHa:
     def __init__(self, parent):
         self.device         = sensors.device
         self.sensors        = sensors.sensors
-        self.client_id      = 'battery_mon'
+        self.client_id      = 'battery_mon_sub'
         self.logger         = parent.logger
 
         #Store send commands till they are received
